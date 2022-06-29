@@ -1,2 +1,2 @@
-# desafiodeprojeto.dio
+# dpj.dio
 1º desafio de projeto bootcamp santander
